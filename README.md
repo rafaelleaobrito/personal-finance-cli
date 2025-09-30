@@ -24,3 +24,37 @@ Ele salva os dados automaticamente em um arquivo `.json`, permitindo continuar d
 personal-finance-cli/
 │-- transacoes.json # Arquivo onde as transações são salvas
 │-- main.py # Código principal do programa
+
+---
+
+## ▶️ Como executar
+1. Clone este repositório:
+   
+   git clone https://github.com/rafaelleaobrito/personal-finance-cli.git
+
+
+2. Acesse a pasta do projeto:
+
+cd controle-financeiro
+
+
+3. Execute o programa:
+
+python main.py
+
+---
+
+## 📸 Exemplo de uso
+==== Controle Financeiro ====
+1 - Adicionar Receita
+2 - Adicionar Despesa
+3 - Listar Transações
+4 - Mostrar Saldo
+5 - Salvar e Sair
+
+---
+
+👤 Autor
+
+Desenvolvido por Rafael Leão Brito.
+Se quiser trocar uma ideia, me chama! 🚀
