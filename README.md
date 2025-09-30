@@ -35,7 +35,7 @@ personal-finance-cli/
 
 2. Acesse a pasta do projeto:
 
-cd controle-financeiro
+cd personal-finace-cli
 
 
 3. Execute o programa:
@@ -45,7 +45,7 @@ python main.py
 ---
 
 ## 📸 Exemplo de uso
-==== Controle Financeiro ====
+==== Personal Finance CLI====
 1 - Adicionar Receita
 2 - Adicionar Despesa
 3 - Listar Transações
